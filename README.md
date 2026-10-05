@@ -3,6 +3,8 @@
   1. Crie um repositório público com o MESMO nome do seu usuário: iwillfilho/iwillfilho
   2. Copie este arquivo para a raiz desse repositório com o nome README.md
   3. Faça o commit — o conteúdo aparecerá automaticamente em https://github.com/iwillfilho
+  4. Cobrinha: copie também .github/workflows/snake.yml para o mesmo repositório,
+     vá em Actions > "Gerar cobrinha de contribuições" > Run workflow (a 1ª vez)
 -->
 
 <p align="center">
@@ -185,6 +187,14 @@ timeline
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=iwillfilho&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iwillfilho/iwillfilho/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iwillfilho/iwillfilho/output/github-snake.svg"/>
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/iwillfilho/iwillfilho/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
