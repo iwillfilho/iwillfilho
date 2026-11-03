@@ -1,12 +1,3 @@
-<!--
-  COMO ATIVAR ESTE README NO SEU PERFIL DO GITHUB
-  1. Crie um repositório público com o MESMO nome do seu usuário: iwillfilho/iwillfilho
-  2. Copie este arquivo para a raiz desse repositório com o nome README.md
-  3. Faça o commit — o conteúdo aparecerá automaticamente em https://github.com/iwillfilho
-  4. Cobrinha: copie também .github/workflows/snake.yml para o mesmo repositório,
-     vá em Actions > "Gerar cobrinha de contribuições" > Run workflow (a 1ª vez)
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Wilson%20Ribeiro&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Engenharia%20da%20Computa%C3%A7%C3%A3o%20%40%20UFU&descAlignY=58&descSize=18&animation=fadeIn" alt="Banner Wilson Ribeiro" width="100%"/>
 </p>
@@ -31,7 +22,7 @@
 
 ### 🧭 Navegação
 
-[Sobre mim](#sobre) • [Competências](#competencias) • [Soft skills & Idiomas](#softskills) • [Trajetória](#trajetoria) • [Experiência](#experiencia) • [Formação](#formacao) • [Estatísticas](#estatisticas)
+[Sobre mim](#sobre) • [Competências](#competencias) • [Soft skills & Idiomas](#softskills) • [Experiência](#experiencia) • [Formação](#formacao)
 
 ---
 
@@ -101,23 +92,6 @@ Sou estudante de **Engenharia da Computação na Universidade Federal de Uberlâ
 | 🇺🇸 Inglês | ![Intermediário](https://img.shields.io/badge/Intermedi%C3%A1rio-F9A825?style=flat-square) |
 | 🇪🇸 Espanhol | ![Básico](https://img.shields.io/badge/B%C3%A1sico-EF6C00?style=flat-square) |
 
----
-
-<a id="trajetoria"></a>
-## 🗺️ Trajetória
-
-```mermaid
-timeline
-    title Linha do tempo
-    2023 : Início do Bacharelado em Engenharia da Computação (UFU)
-         : Início nas Maratonas de Programação
-    2024 : Evolução do top 100 ao top 20 nas maratonas individuais
-    2025 : Analista Quantitativo na LMF-UFU
-    2026 : Engenheiro de Software na Casa Estúdio Arquitetura
-    2027 : Conclusão prevista da graduação
-```
-
----
 
 <a id="experiencia"></a>
 ## 💼 Experiência & Liderança
@@ -176,18 +150,6 @@ timeline
 </details>
 
 ---
-
-<a id="estatisticas"></a>
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iwillfilho&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwillfilho&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iwillfilho&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <picture>
